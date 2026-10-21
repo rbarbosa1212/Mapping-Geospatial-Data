@@ -1,6 +1,5 @@
 *.DS_Store
 raw_data/
 covid.csv
-*.csv
 Data/COVID (1).csv
 Data/covid.csv
